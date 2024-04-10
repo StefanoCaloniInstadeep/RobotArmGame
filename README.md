@@ -1,4 +1,4 @@
-# Project 1: ROBOT ARM GAME
+# Project 2: ROBOT ARM GAME
 
 ### Introduction
 

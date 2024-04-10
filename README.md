@@ -38,7 +38,7 @@ there are 2 variants of the environment with a single agent or with 20 agents. I
 
 ### Instructions
 
-Follow the instructions in `Exercise.ipynb` to get started with training your own agent!
+Follow the instructions in `RobotArm.ipynb` to get started with training your own agent!
 
 
 https://github.com/StefanoCaloniInstadeep/RobotArmGame/assets/138109919/c0ae9e00-f080-4dd8-abe8-03fb07f4df3d
